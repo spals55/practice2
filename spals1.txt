@@ -1,1 +1,2 @@
 SPALS 1 make work
+SPALS 2 make work2
